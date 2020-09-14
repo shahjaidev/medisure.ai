@@ -1,0 +1,28 @@
+[[Letter]]:
+Aetna 
+P.O. Box 3013 Mad Stop U12W Blue Bell, PA 19422-0763
+
+Powell Gonzalez
+54 Creek Street
+Philadelphia
+PA
+
+Dear Mr. Powell
+Thank you for your claim application for an Aetna Advantage Plans for Individuals, Families, and the Self-Employed. Your claim was for your condition of having trouble breathing. Based on the documents submitted, this condition was diagnosed on May 10, 2020 and the procedure took play on August 10, 2020 under Dr. Amit Patel of the Philadelphia General Hospital. After careful review of your application, we are unable to offer coverage and have declined the claim for the following reason(s): On review of the test reports submitted, this specific procedure of septoplasty did not meet the standard of being considered medically necessary and was deemed a cosmetic procedure. Furthermore, the provider (Philadelphia General Hospital)is an out-of-network provider- based on the specifics of the Aetna Advantage Plus Plan, only procedures significantly critical to patient health can be covered out-of-network. This information may have come from your application, phone interview or medical records. Medical factors that we did not review this time may be considered.
+
+[[Summarized Version]]:Insurance Plan: Aetna Advantage Plus for Individuals, Families and Self-Employed, Reason: The reason the claim was denied was that the septoplasty procedure was deemed cosmetic and not medically necessary, Patient Name: Powell Gonzalez, State: PA, Diagnosis Date: May 10, 2020, Treatment Date: August 10, 2020, Condition type: Respiratory, Condition: Trouble breathing, Supervising Doctor: Dr. Amit Patel, Hospital: Philadelphia General Hospital, In-network provider: No, Treatment/procedure name: Septoplasty
+
+
+[[Letter]]:
+Cigna
+Cigna P.O. Box 8230 Mail, NY, NY 10027
+
+Rachel Morrison
+75 Palace enclave
+Los Angeles
+CA
+
+Dear Ms. Morrison,
+This is regarding your recent claim under your Cigna MD PPO.  From the medical documents and forms submitted, your claim application for treatment was considered throughly. Your condition was diagnosed on December 10, 2018 and the gastric bypass treatment started June 10, 2019 under Dr. Mark Henderson of the Good Samaritan Hospital. We regret to inform you that we are unable to cover your claim for this treatment because of the following considerations: Through careful evaluation of your medical history, your condition of diabetes was deemed self-inflicted. Aetna's doctors and in-house medical expertise concluded that based on the test results submitted, despite an early diagnosis, patient behaviour did not change. If you wish to do so, you may submit an appeal.
+
+[[Summarized Version]]:Insurance Plan: Cigna MD PPO, Reason: The reason the claim was denied was that the diabetes procedure was deemed self-inflicted, Patient Name: Rachel Morrison, State: CA, Diagnosis Date: December 10, 2018, Treatment Date: June 10, 2019, Condition type: Diabetes, Condition: Diabetes, Supervising Doctor: Dr. Mark Henderson, Hospital: Philadelphia General Hospital, In-network provider: Yes, Treatment/procedure name: Gastric bypass

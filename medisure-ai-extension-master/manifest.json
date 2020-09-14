@@ -1,0 +1,43 @@
+{
+  "manifest_version": 2,
+  "name": "Medisure.ai",
+  "version": "1.0",
+  "description": "Simplies Medical Insurance",
+  "icons": {
+    "16": "images/sum18.png",
+    "24": "images/sum24.svg"
+  },
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_icon": "images/sum18.png",
+    "default_title": "Summarize Insurance"
+  },
+  "permissions": [
+    "tabs",
+    "storage",
+    "notifications",
+    "contextMenus",
+    "activeTab",
+    "http://*/*",
+    "https://*/*",
+    "tts"
+  ],
+  "background": {
+    "default_icon": "icon.png",
+    "scripts": [
+      "js/lodash.js",
+      "js/tokenizer.js",
+      "js/jquery-3.2.1.slim.min.js",
+      "js/eventPage.js",
+      "js/js-summarize.js"
+    ],
+    "persistent": true
+  },
+  "options_page": "options.html",
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["contentScript.js"]
+    }
+  ]
+}

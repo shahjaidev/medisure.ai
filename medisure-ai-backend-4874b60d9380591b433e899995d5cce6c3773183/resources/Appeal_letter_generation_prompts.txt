@@ -1,0 +1,35 @@
+[[Fields]]:
+Insurance Plan: Aetna MD bronze PPO, Reason: procedure was deemed cosmetic in nature, Patient Name: Justine Rose, Patient Age:66, State: CA, Diagnosis Date: December 10, 2018, Treatment Date: June 10, 2019, Condition type: Lipedema, Condition: Lipedema, Supervising Doctor: Dr. John Kerek, Hospital: San Francisco General Hospital, In-network provider: no, Treatment/procedure name: Complete Decongestive Therapy + specialized liposuction surgery , Life-threatening urgency: No 
+
+
+[[Draft of Appeal Letter]]:
+Dear Aetna Representative,
+I am writing to appeal Aetna's decision to deny coverage of treatments for Lipedema for me. I was first diagnosed with Lipedema on May 15, 2020. I had visited Dr. John of the San Francisco General Hospital, which is an in-network treatment provider, and on his strong recommendation commenced Complete Decongestive Therapy treatment on July 20, 2020 and underwent specialized liposuction surgery on August 10, 2020.
+It is my understanding that Aetna is denying coverage on the basis that in the denial letter, the treatments required to treat Lipedema were labelled as cosmetic. My insurance plan, Aetna MD Bronze PPO, covers medically necessary services that are not expressly excluded, which are described in the Evidence of Coverage. Contrary to your letter, CDT and specialized lipsuction sould be covered service. According to California state law,  state’s mandated benefit laws requiring that the health plan provide this coverage, as Lipedema falls under chronic diseases. 
+Lipedema is a condition that occurs because of an abnormal accumulation of fat under the skin, triggered by a genetic disorder of the lymphatic system and sudden hormonal changes in women. 
+ My doctor, Dr. John of the San Francisco General Hospital,  believes that CDT (Complete Decongestive Therapy) and Specialized Liposuction are medically necessary treatments to treat my medical condition and that both these treatments are a covered plan benefit. I have also attached a supporting medical letter that attests that the entire treatment team has recommended that these treatments are medically necessary. Lipoedema occurs because of the abnormal accumulation of fat under the skin.
+ As a result of Lipedema, at my current senior age of 66, I suffer from a very poor quality of life and a host of additional complications as a result of Lipedema. As symptoms of untreated Lipedema, I suffer from high swelling and pain in my hips and legs which prevents me from physical exercise. My doctors and I are confident these treatments can greatly improve my condition. If I do not receive this treatment, untreated lipedema can lead to severe lymphedema, which can cause the skin to harden and become discolored. The skin can also become infected and ulcerated. Furthermore, it is already affecting my mental health and going forward can lead to severe mental health disorders. I sincerely request you to reconsider your decision. 
+
+Thank you for your immediate attention to this matter. 
+
+Attached: A letter from Dr. Kerek corroborating the above and supporting my case. 
+
+Best,
+Justine Rose
+"""
+[[Fields]]:
+Insurance Plan: Cigna MD PPO, Reason: self-inflicted, Patient Name: Rachel Morrison, Patient Age: 30, State: NY, Diagnosis Date: December 10, 2018, Treatment Date: June 10, 2019, Condition type: Diabetes, Condition: Diabetes, Supervising Doctor: Dr. Mark Henderson, Hospital: Mount Sinai Hospital, In-network provider: No, Treatment/procedure name: Gastric bypass
+[[Draft of Appeal Letter]]:
+Dear Cigna Representative,
+I am writing to appeal Cigna's decision to deny coverage of treatments for Diabetes for me. I was first diagnosed with Diabetes on May 15, 2020. I had visited Dr. John of the Mount Sinai Hospital, which is an in-network treatment provider, and on his strong recommendation commenced Gastric bypass surgery on July 20, 2020.
+It is my understanding that Cigna is denying coverage on the basis that in the denial letter, the treatments required to treat Diabetes were labelled as self-inflicted. My insurance plan, Cigna MD PPO, covers medically necessary services that are not expressly excluded, which are described in the Evidence of Coverage. Contrary to your letter, Gastric bypass surgery is a covered service. Diabetes is a chronic condition that occurs because of an abnormal metabolism of glucose in the body. According to New York state law,  state’s mandated benefit laws requiring that the health plan provide this coverage, as Diabetes falls under chronic diseases. 
+My doctor, Dr. Henderson of the Mount Sinai Hospital,  believes that Gastric bypass surgery is the medically necessary treatment to treat my medical condition and that both these treatments are a covered plan benefit. I have also attached a supporting medical letter that attests that the entire treatment team has recommended that these treatments are medically necessary. Diabetes occurs because of the abnormal metabolism of glucose in the body. 
+As a result of Diabetes, at my current young age of 30, I suffer from a very poor quality of life and a host of additional complications as a result of Diabetes. As symptoms of untreated Diabetes, I suffer from high blood pressure and high cholesterol. My doctors and I are confident these treatments can greatly improve my condition. If I do not receive this treatment, untreated diabetes can lead to severe heart disease, which can cause heart failure. Other symptoms of untreated long-term diabetes that I'm at a high risk of include nerve damage and loss of vision. For the sake of me and my family, I humbly ask you to reconsider this decision.
+
+Thank you for your immediate attention to this matter. 
+
+Attached: A letter from Dr. Henderson corroborating the above and supporting my case. 
+
+Best,
+Rachel Morrison
+"""

@@ -1,0 +1,5 @@
+bert-extractive-summarizer
+spacy
+transformers==2.2.2
+neuralcoref
+torch

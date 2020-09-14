@@ -1,0 +1,94 @@
+Generation:
+Notes:
+->Another option is to work with a professional patient advocacy company. It might cost between $125 and $300 for an initial review and then you’ll be billed hourly.
+
+Under the Affordable Care Act (ACA), when treatment is denied, you have the legal right to ask for an internal review. If this appeal is denied, you have the legal right to ask for an independent, external review. 
+Note that Affordable Care Act (ACA) now requires a 72-hour  expedited internal review for urgent care. This time frame is required for plan years or policy years beginning on July 1, 2012.]
+
+
+-------Prompt-----------------------------------------------------------------------------------
+[[Bullet points]]
+*Patient Name- Hilary Clinton
+*Patient Age- 41
+*Date of Diagnosis: May 15, 2020
+*Treatments: complete decongestive therapy CDT (Therapy), Specialized liposuction (Surgery)
+*Commencement of treatment: July 20, 2020
+*Surgery Date: August 10, 2020
+*Condition: Lipedema
+*Insurance Plan: Aetna MD bronze PPO
+*Treatment hospital: San Francisco General Hopsital
+*Treatment Doctor: Dr. John
+*In network treatment provider: Yes
+*State: CA
+*Life-threatening urgency: No 
+
+Dear Aetna Representative,
+I am writing to appeal the [name of Health Plan] decision to deny coverage of treatments for Lipedema for me. I was first diagnosed with Lipedema on May 15, 2020. I had visited Dr. John of the San Francisco General Hospital, which is an in-network treatment provider, and on his strong recommendation commenced treatment on July 20, 2020 and underwent specialized liposuction surgery on August 10, 2020.
+
+It is my understanding that Aetna is denying coverage on the basis that in the denial letter, the treatments required to treat Lipedema were labelled as cosmetic, as this is a common misconception. 
+My insurance plan, Aetna MD Bronze PPO, covers medically necessary services that are not expressly excluded, which are described in the Evidence of Coverage. Contrary to your letter, CDT and specialized lipsuction sould be covered service. According to California state law,  state’s mandated benefit laws requiring that the health plan provide this coverage, as Lipedema falls under chronic diseases. 
+Lipedema is a condition that occurs because of an abnormal accumulation of fat under the skin, triggered by a genetic disorder of the lymphatic system and sudden hormonal changes in women. 
+ My doctor, Dr. John of the San Francisco General Hospital,  believes that CDT (Complete Decongestive Therapy) and Specialized Liposuction are medically necessary treatments to treat my medical condition and that both these treatments are a covered plan benefit. I have also attached a supporting medical letter that attests that the entire treatment team has recommended that these treatments are medically necessary. Lipoedema occurs because of the abnormal accumulation of fat under the skin.
+ As a result of Lipedema, at my current age of 66, I suffer from a very poor quality of life as a result of Lipedema. As symptoms of untreated Lipedema, I suffer from high swelling and pain in my hips and legs which prevents me from physical exercise. My doctors and I are confident these treatments can greatly improve my condition. If I do not receive this treatment, untreated lipedema can lead to severe lymphedema, which can cause the skin to harden and become discolored. The skin can also become infected and ulcerated. Furthermore, it is already affecting my mental health and going forward can lead to severe mental health disorders.
+
+Thank you for your immediate attention to this matter.
+
+Best,
+Hillary Clinton
+
+
+
+
+----------------
+
+Diabetes Result
+
+[[Draft of Appeal Letter]]:
+Dear Cigna Representative,
+I am writing to appeal the [name of Plan] decision to deny coverage of treatments for Diabetes for me. I was first diagnosed with Type 1 Diabetes on June 25, 2020. I had visited Mount Sinai Hospital's outpatient clinic, which is an in-network treatment provider, and on its strong recommendation commenced treatment on August 1, 2020.
+
+It is my understanding that Cigna is denying coverage on the basis that in the denial letter, the treatments required to treat Diabetes were labelled as cosmetic, as this is a common misconception. My insurance plan, Cigna, covers medically necessary services that are not expressly excluded, which are described in the Evidence of Coverage. Contrary to your letter, Insulin Therapy is a covered service. According to New York state law, state’s mandated benefit laws requiring that the health plan provide this coverage, as Diabetes falls under chronic diseases.
+
+Type 1 Diabetes is a condition that occurs because of an abnormal increase in glucose in the bloodstream, triggered by a genetic disorder of the cells that produce insulin. My doctors at Mount Sinai Hospital and I believe that Insulin Therapy is medically necessary and that it is a covered plan benefit. I have also attached a supporting medical letter that attests that the entire treatment team has recommended that this treatment is medically necessary. Type 1 Diabetes occurs because of the abnormal increase in glucose in the bloodstream which cause it to decrease in the urine. Type 1 diabetes usually begins to affect young people, but it can occur at any age. This disease comes on suddenly and may cause death. Severe infection is a very possible outcome when the body’s immune system malfunctions as a result of this disease.
+
+As a result of Diabetes, at my current age of 21, I suffer from a very poor quality of life as a result of Diabetes. As symptoms of untreated Diabetes, I have frequent urination at night, high blood sugars levels in the morning, and high sugar levels after meals. As well as other negative effects on my health resulting from high blood sugar levels. I also have discomfort in my feet and lower legs which prevent me from physical activity. My doctors and I are confident these treatments can greatly improve my condition. If I do not receive this treatment, untreated Diabetes can lead to nerve damage (diabetic neuropathy), eye disease (retinopathy), kidney disease (nephropathy), and even death because it can cause stroke or heart attack. These treatments are essential to control these diseases.
+
+Thank you for your immediate attention to this matter.
+
+
+
+
+
+
+
+Sincerely,
+
+[Your name]
+
+
+-------
+
+
+
+My name is Jaidev Shah. I am a 21-year-old male who was diagnosed with Diabetes Type 1 on June 25, 2020. I was referred to an endocrinologist, Dr. Gomez of Mount Sinai, by my primary care doctor. Dr. Gomez diagnosed me with Type 1 Diabetes Mellitus and initiated insulin therapy.
+
+At the time of my diagnosis, I had no symptoms of diabetes. I was active, playing soccer 2 times a week and attending college classes full-time. However, as a result of a rapid advancement of pancreas disease, my blood glucose levels were dangerously high. I was unable to sleep due to my hunger and thirst and was suffering from blurry vision and frequent urination. I was also experiencing sudden weight loss and extreme fatigue.
+
+I am concerned about the possibility of long term complications, such as kidney failure, limb amputations and vision loss and would like to avoid these problems if possible.
+
+Please let me know if my appeal request can be reconsidered.
+
+------------
+[[Fields]]:
+Insurance Plan: Cigna MD PPO, Reason: The reason the claim was denied was that the diabetes procedure was deemed self-inflicted, Patient Name: Rachel Morrison, State: CA, Diagnosis Date: December 10, 2018, Treatment Date: June 10, 2019, Condition type: Diabetes, Condition: Diabetes, Supervising Doctor: Dr. Mark Henderson, Hospital: Philadelphia General Hospital, In-network provider: Yes, Treatment/procedure name: Gastric bypass
+[[Draft of Appeal Letter]]:
+Dear Cigna Representative,
+I am writing to appeal the denial of my claim for gastric bypass procedure. I was first diagnosed with diabetes on December 10, 2018. On December 10, 2018, the treatment team at Philadelphia General Hospital, which is an in-network health plan, recommended this surgery as a covered plan benefit. I am appealing this decision because I firmly believe this surgery is medically necessary for me to treat my medical condition.
+
+My doctor, Dr. Mark Henderson, believes that gastric bypass is the only treatment that can balance insulin levels and reduce weight to normal. As a result of diabetes, I suffer from high swelling, pain in my bones and legs, weight dropping constantly, and poor quality of life. In my doctor's opinion, it is the most effective treatment for my medical condition. This treatment will enable me to go back to work and raise a family without associated disabilities. If I do not receive this treatment, my disease will only get worse.
+
+Thank you for your immediate attention to this matter.
+
+Sincerely,
+Rachel Morrison
+

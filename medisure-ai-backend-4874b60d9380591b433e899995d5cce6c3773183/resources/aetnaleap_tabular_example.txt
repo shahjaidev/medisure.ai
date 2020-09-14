@@ -1,0 +1,19 @@
+Services You May Need|  In-Network Provider Cost | Out–of–Network Provider Cost |
+Primary care visit to treat an injury or illness |  $10 copay/visit, deductible waived | Not covered| None
+Specialist Visit | 0% coinsurance, after deductible | Not covered | None
+Other practitioner office visit | 0% coinsurance, after deductible for Chiropractic care | Not covered
+
+Q: How much coinsurance do I have to pay for a specialist visit?
+A: 0 %
+
+Q: How much do I pay for a primary care visit?
+A: $10 copay/visit, deductible waived
+
+Q: For visiting an oncologist, how much do I have to pay?
+A: Since its a specialist visit, you pay 0% coinsurance
+
+Q: How much do I pay for a general physician visit?
+A: $10 copay/visit, deductible waived
+
+Q: How much do I pay for a dermatologist visit?
+A: Since its a specialist visit, you pay 0% coinsurance

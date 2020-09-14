@@ -1,0 +1,22 @@
+{
+  "name": "summarizer",
+  "version": "1.0.0",
+  "description": "summarizer for health insurances",
+  "main": "contentScript.js",
+  "scripts": {
+    "test": "npm start "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shantanuspark/ChromeExtensionTextSummarizer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shantanuspark/ChromeExtensionTextSummarizer/issues"
+  },
+  "homepage": "https://github.com/shantanuspark/ChromeExtensionTextSummarizer#readme",
+  "dependencies": {
+    "openai-api": "^1.0.9"
+  }
+}

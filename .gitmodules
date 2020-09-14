@@ -1,0 +1,9 @@
+[submodule "medisure-ai-frontend"]
+	path = medisure-ai-frontend
+	url = https://github.com/medisure-ai/medisure-ai-frontend.git
+[submodule "medisure-ai-backend"]
+	path = medisure-ai-backend
+	url = https://github.com/medisure-ai/medisure-ai-backend.git
+[submodule "medisure-ai-extension"]
+	path = medisure-ai-extension
+	url = https://github.com/medisure-ai/medisure-ai-extension.git
