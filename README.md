@@ -6,3 +6,5 @@ Simplifying Medical Insurance using NLP and GPT-3. Submitted to PennApps 2020, a
 
 On Devpost:  
 https://devpost.com/software/medinsure-ai
+
+YouTube Demo Video: https://www.youtube.com/watch?v=87VsjKR8Gxg
